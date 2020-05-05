@@ -1,0 +1,16 @@
+# README #
+
+### Why does this exist? ###
+* It used to be hosted somewhere but now it's gone so I'm making my own
+
+### User guide ###
+* Edit username in Main, compile and run
+* It will be more straight forward soon
+
+### Planned Features ###
+* Executable
+* Support for Manga lists
+* User defined number of results
+* Link to MAL, maybe pictures and avg score display
+* Filter by TV, movie, etc.
+* Filter by PTW, finished, on hold
